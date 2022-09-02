@@ -1,6 +1,6 @@
 /**
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Contact Me on wa.me/6282122365620
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,11 +18,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','62895336722950','6287721317870','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
-global.sessionName = 'hisoka'
+global.owner = ['6285162603180','6285156285664','6285817649799','6282122365620']
+global.premium = ['6282122365620']
+global.packname = 'KaidoBotz'
+global.author = 'MaoneArt'
+global.sessionName = 'kaidobotz'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -40,7 +40,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 100
 }
-global.thumb = fs.readFileSync('./lib/hisoka.jpg')
+global.thumb = fs.readFileSync('./media/logo.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
 
 let file = require.resolve(__filename)
